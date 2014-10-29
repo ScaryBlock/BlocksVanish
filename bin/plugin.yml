@@ -1,0 +1,13 @@
+name: BlocksVanish
+version: 0.1
+author: Scary_Block
+softdepend: [PermissionsEx, Essentials]
+
+main: lu.blocks.scary_block.blocksvanish.BlocksVanish
+
+commands:
+  vanish:
+    description: Vanish Command
+    usage: /<command> [list/player]
+    permission: blocks.vanish
+    aliases: [unvanish,hide]

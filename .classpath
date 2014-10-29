@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Games/Localhost Server/Bukkit 1.7.2 PluginTest/plugins/Essentials.jar"/>
+	<classpathentry kind="lib" path="D:/Games/Localhost Server/Bukkit 1.7.2 PluginTest/plugins/PermissionsEx.jar"/>
+	<classpathentry kind="lib" path="D:/Games/Localhost Server/Spigot 1.7.X/spigot1627.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
